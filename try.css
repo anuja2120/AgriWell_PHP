@@ -1,0 +1,16 @@
+.row{
+    border: 1px solid black;
+    height: 150px;
+}
+.colunm{
+    border: 1px solid black;
+    height: 100%;
+    width: 50%;
+    display: inline-block;
+}
+.colunm{
+    border: 1px solid black;
+    height: 100%;
+    width: 50%;
+    display: inline-block;
+}
