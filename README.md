@@ -14,8 +14,8 @@ Frontend Technologies:
 
 Server: Hosted on a local XAMPP server which includes Apache and MySQL.
 
-![A1](https://github.com/anuja2120/AgriWell_PHP/assets/137266229/ebb3a3a0-fc2e-4186-9ecb-d0b4977a5306)
-![A2](https://github.com/anuja2120/AgriWell_PHP/assets/137266229/50e7c123-5573-4a6c-892f-bc6d82ad5f2e)
-![WhatsApp Image 2024-06-05 at 4 59 42 PM](https://github.com/anuja2120/AgriWell_PHP/assets/137266229/5c870770-90f4-4e43-b4b4-0b3d26ea032b)
-![WhatsApp Image 2024-06-05 at 5 05 10 PM](https://github.com/anuja2120/AgriWell_PHP/assets/137266229/5bf48cc8-5aa3-4e61-970b-45363fb6880f)
-![WhatsApp Image 2024-06-05 at 4 12 13 PM](https://github.com/anuja2120/AgriWell_PHP/assets/137266229/c241dd92-c5fc-475a-8d7a-2f7027878ab3)
+![A1](https://github.com/anuja2120/AgriWell_PHP/assets/137266229/7d009340-7030-4a50-bfff-46719f07c8cd)
+![A2](https://github.com/anuja2120/AgriWell_PHP/assets/137266229/d58b4aa0-c343-4f2e-9139-c12c5c8cc6f7)
+![WhatsApp Image 2024-06-05 at 4 59 42 PM](https://github.com/anuja2120/AgriWell_PHP/assets/137266229/7cea0b70-1095-4972-9ed8-6d6bbaa25ac7)
+![WhatsApp Image 2024-06-05 at 5 05 10 PM](https://github.com/anuja2120/AgriWell_PHP/assets/137266229/57a47cb4-3cc8-4363-bc91-17d5b8ca8199)
+![WhatsApp Image 2024-06-05 at 4 12 13 PM](https://github.com/anuja2120/AgriWell_PHP/assets/137266229/6f268478-4730-45bb-97c2-256a09970218)
