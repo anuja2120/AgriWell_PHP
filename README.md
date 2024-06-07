@@ -4,7 +4,7 @@ AgriWell is dedicated to enhancing the agricultural sector by providing farmers 
 
 Backend Technologies:
 1. PHP
-2. MySQL
+2. MySQLi
 
 Frontend Technologies:
 1. HTML
